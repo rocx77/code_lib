@@ -1,0 +1,292 @@
+THIRD
+LECTURE puma
+BLACK HOLES
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+The term black hole is of very recent origin. It was coined in 1969 by the
+American scientist John Wheeler as a graphic description of an idea that
+goes back at least two hundred years. At that time there were two theories
+about light. One was that it was composed of particles; the other was that it
+was made of waves. We now know that really both theories are correct. By the
+wave/particle duality of quantum mechanics, light can be regarded as both a
+wave and a particle. Under the theory that light was made up of waves, it was
+not clear how it would respond to gravity. But if light were composed of parti-
+cles, one might expect them to be affected by gravity in the same way that
+cannonballs, rockets, and planets are.
+On this assumption, a Cambridge don, John Michell, wrote a paper in 1783
+in the Philosophical Transactions of the Royal Society of London. In it, he point-
+ed out that a star that was sufficiently massive and compact would have such
+a strong gravitational field that light could not escape. Any light emitted
+from the surface of the star would be dragged back by the star's gravitational
+attraction before it could get very far. Michell suggested that there might be
+a large number of stars like this. Although we would not be able to see them
+because the light from them would not reach us, we would still feel their grav-
+itational attraction. Such objects are what we now call black holes, because
+that is what they are—black voids in spacA similar suggestion was made a few years later by the French scientist the
+Marquis de Laplace, apparently independently of Michell. Interestingly
+enough, he included it in only the first and second editions of his book, The
+System of the World, and left it out of later editions; perhaps he decided that it
+was a crazy idea. In fact, it is not really consistent to treat light like cannon-
+balls in Newton's theory of gravity because the speed of light is fixed. A can-
+nonball fired upward from the Earth will be slowed down by gravity and will
+eventually stop and fall back. A photon, however, must continue upward at a
+constant speed. How, then, can Newtonian gravity affect light? A consistent
+theory of how gravity affects light did not come until Einstein proposed gen-
+eral relativity in 1915; and even then it was a long time before the implica-
+tions of the theory for massive stars were worked out.
+To understand how a black hole might be formed, we first need an understand-
+ing of the life cycle of a star. A star is formed when a large amount of gas, most-
+ly hydrogen, starts to collapse in on itself due to its gravitational attraction. As
+it contracts, the atoms of the gas collide with each other more and more fre-
+quently and at greater and greater speeds—the gas heats up. Eventually the gas
+will be so hot that when the hydrogen atoms collide they no longer bounce off
+each other but instead merge with each other to form helium atoms. The heat
+released in this reaction, which is like a controlled hydrogen bomb, is what
+makes the stars shine. This additional heat also increases the pressure of the
+T H E T H E O R Y O F E V E R Y T H I N G
+38
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+gas until it is sufficient to balance the gravitational attraction, and the gas
+stops contracting. It is a bit like a balloon where there is a balance between the
+pressure of the air inside, which is trying to make the balloon expand, and the
+tension in the rubber, Rajesh which is trying to make the balloon smaller.
+The stars will remain stable like this for a long time, with the heat from the
+nuclear reactions balancing the gravitational attraction. Eventually, however,
+the star will run out of its hydrogen and other nuclear fuels. And paradoxical-
+ly, the more fuel a star starts off with, the sooner it runs out. This is because
+the more massive the star is, the hotter it needs to be to balance its gravita-
+tional attraction. And the hotter it is, the faster it will use up its fuel. Our sun
+has probably got enough fuel for another five thousand million years or so, but
+more massive stars can use up their fuel in as little as one hundred million
+years, much less than the age of the universe. When the star runs out of fuel,
+it will start to cool off and so to contract. What might happen to it then was
+only first understood at the end of the 1920s.
+In 1928 an Indian graduate student named Subrahmanyan Chandrasekhar set
+sail for England to study at Cambridge with the British astronomer Sir Arthur
+Eddington. Eddington was an expert on general relativity. There is a story that
+a journalist told Eddington in the early 1920s that he had heard there were
+B L A C K H O L E S
+39
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+only three people in the world who understood general relativity. Eddington
+replied, “I am trying to think who the third person is.”
+During his voyage from India, Chandrasekhar worked out how big a star could
+be and still separate itself against its own gravity after it had used up all its
+fuel. The idea was this: When the star becomes small, the matter particles get
+very near each other. But the Pauli exclusion principle says that two matter
+particles cannot have both the radhey same position and the same velocity. The mat-
+ter particles must therefore have very different velocities. This makes them
+move away from each other, and so tends to make the star expand. A star can
+therefore maintain itself at a constant radius by a balance between the attrac-
+tion of gravity and the repulsion that arises from the exclusion principle, just
+as earlier in its life the gravity was balanced by the heat.
+Chandrasekhar realized, however, that there is a limit to the repulsion that the
+exclusion principle can provide. The theory of relativity limits the maximum
+difference in the velocities of the matter particles in the star to the speed of
+light. This meant that when the star got sufficiently dense, the repulsion
+caused by the exclusion principle would be less than the attraction of gravity.
+Chandrasekhar calculated that a cold star of more than about one and a half
+times the mass of the sun would not be able to support itself against its own
+gravity. This mass is now known as the Chandrasekhar limit.
+T H E T H E O R Y O F E V E R Y T H I N G
+40
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+This had serious implications for the ultimate fate of massive stars. If a star's
+mass is less than the Chandrasekhar limit, it can eventually stop contracting
+and settle down to a possible final state as a white dwarf with a radius of a few
+thousand miles and a density of hundreds of tons per cubic inch. A white dwarf
+is supported by the exclusion principle repulsion between the electrons in its
+matter. We observe a large number of these white dwarf stars. One of the first
+to be discovered is the star that is orbiting around Sirius, the brightest star in
+the night sky.
+It was also realized that there was another possible final state for a star also
+with a limiting mass of about one or two times the mass of the sun, but much
+smaller than even the white dwarf. These stars would be supported by the
+exclusion principle repulsion between the neutrons and protons, rather than
+between the electrons. They were therefore called neutron stars. They would
+have had a radius of only ten miles or so and a density of hundreds of millions
+of tons per cubic inch. At the time they were first predicted, there was no way
+that neutron stars could have been observed, and they were not detected until
+much later.
+Stars with masses above the Chandrasekhar limit, on the other hand, have a
+big problem when they come to the end of their fuel. In some cases they may
+explode or manage to throw off enough matter to reduce their mass below the
+B L A C K H O L E S
+41
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+limit, but it was difficult to believe that this always happened, no matter how
+big the star. How would it know that it had to lose weight? And even if every
+star managed to lose enough mass, what would happen if you added more mass
+to a white dwarf or neutron star to take it over the limit? Would it collapse to
+infinite density?
+Eddington was shocked by the implications of this and refused to believe
+Chandrasekhar's result. He thought it was simply not possible that a star could
+collapse to a point. This was the view of most scientists. Einstein himself wrote
+a paper in which he claimed that stars would not shrink to zero size.The hos-
+tility of other scientists, particularly of Eddington, his former teacher and the
+leading authority on the structure of stars, persuaded Chandrasekhar to aban-
+don this line of work and turn instead to other problems in astronomy.
+However, when he was awarded the Nobel Prize in 1983, it was, at least in
+part, for his early work on the limiting mass of cold stars.
+Chandrasekhar had shown that the exclusion principle could not halt the col-
+lapse of a star more massive than the Chandrasekhar limit. But the problem of
+understanding what would happen to such a star, according to general relativ-
+ity, was not solved until 1939 by a young American, Robert Oppenheimer. His
+result, however, suggested that there would be no observational consequences
+that could be detected by the telescopes of the day. Then the war intervened
+T H E T H E O R Y O F E V E R Y T H I N G
+42
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+and Oppenheimer himself became closely involved in the atom bomb project.
+And after the war the problem of gravitational collapse was largely forgotten
+as most scientists were then interested in what happens on the scale of the
+atom and its nucleus. In the 1960s, however, interest in the large-scale prob-
+lems of astronomy and cosmology was revived by a great increase in the num-
+ber and range of astronomical observations brought about by the application
+of modern technology. Oppenheimer’s work was then rediscovered and
+extended by a number of people.
+The picture that we now have from Oppenheimer’s work is as follows: The
+gravitational field of the star changes the paths of light rays in space–time from
+what they would have been had the star not been present. The light cones,
+which indicate the paths followed in space and time by flashes of light emit-
+ted from their tips, are bent slightly inward near the surface of the star. This
+can be seen in the bending of light from distant stars that is observed during
+an eclipse of the sun. As the star contracts, the gravitational field at its surface
+gets stronger and the light cones get bent inward more. This makes it more
+difficult for light from the star to escape, and the light appears dimmer and
+redder to an observer at a distance.
+Eventually, when the star has shrunk to a certain critical radius, the gravita-
+tional field at the surface becomes so strong that the light cones are bent
+B L A C K H O L E S
+43
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+inward so much that the light can no longer escape. According to the theory
+of relativity, nothing can travel faster than light. Thus, if light cannot escape,
+neither can anything else. Everything is dragged back by the gravitational
+field. So one has a set of events, a region of space–time, from which it is not
+possible to escape to reach a distant observer. This region is what we now call
+a black hole. Its boundary is called the event horizon. It coincides with the
+paths of the light rays that just fail to escape from the black hole.
+In order to understand what you would see if you were watching a star collapse
+to form a black hole, one has to remember that in the theory of relativity there
+is no absolute time. Each observer has his own measure of time. The time for
+someone on a star will be different from that for someone at a distance, because
+of the gravitational field of the star. This effect has been measured in an exper-
+iment on Earth with clocks at the top and bottom of a water tower. Suppose
+an intrepid astronaut on the surface of the collapsing star sent a signal every
+second, according to his watch, to his spaceship orbiting about the star. At
+some time on his watch, say eleven o’clock, the star would shrink below the
+critical radius at which the gravitational field became so strong that the signals
+would no longer reach the spaceship.
+His companions watching from the spaceship would find the intervals between
+successive signals from the astronaut getting longer and longer as eleven
+T H E T H E O R Y O F E V E R Y T H I N G
+44
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+o’clock approached. However, the effect would be very small before 10:59:59.
+They would have to wait only very slightly more than a second between the
+astronaut’s 10:59:58 signal and the one that he sent when his watch read
+10:59:59, but they would have to wait forever for the eleven o’clock signal.
+The light waves emitted from the surface of the star between 10:59:59 and
+eleven o’clock, by the astronaut’s watch, would be spread out over an infinite
+period of time, as seen from the spaceship.
+The time interval between the arrival of successive waves at the spaceship
+would get longer and longer, and so the light from the star would appear
+redder and redder and fainter and fainter. Eventually the star would be so dim
+that it could no longer be seen from the spaceship. All that would be left would
+be a black hole in space. The star would, however, continue to exert the same
+gravitational force on the spaceship. This is because the star is still visible to
+the spaceship, at least in principle. It is just that the light from the surface is
+so red-shifted by the gravitational field of the star that it cannot be seen.
+However, the red shift does not affect the gravitational field of the star itself.
+Thus, the spaceship would continue to orbit the black hole.
+The work that Roger Penrose and I did between 1965 and 1970 showed that,
+according to general relativity, there must be a singularity of infinite density
+within the black hole. This is rather like the big bang at the beginning of time,
+B L A C K H O L E S
+45
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+only it would be an end of time for the collapsing body and the astronaut. At
+the singularity, the laws of science and our ability to predict the future would
+break down. However, any observer who remained outside the black hole
+would not be affected by this failure of predictability, because neither light nor
+any other signal can reach them from the singularity.
+This remarkable fact led Roger Penrose to propose the cosmic censorship
+hypothesis, which might be paraphrased as “God abhors a naked singularity.”
+In other words, the singularities produced by gravitational collapse occur only
+in places like black holes, where they are decently hidden from outside view
+by an event horizon. Strictly, this is what is known as the weak cosmic censor-
+ship hypothesis: protect obervers who remain outside the black hole from the
+consequences of the breakdown of predictability that occurs at the singularity.
+But it does nothing at all for the poor unfortunate astronaut who falls into the
+hole. Shouldn’t God protect his modesty as well?
+There are some solutions of the equations of general relativity in which it is
+possible for our astronaut to see a naked singularity. He may be able to avoid
+hitting the singularity and instead fall through a “worm hole” and come out in
+another region of the universe. This would offer great possibilities for travel in
+space and time, but unfortunately it seems that the solutions may all be high-
+ly unstable. The least disturbance, such as the presence of an astronaut, may
+T H E T H E O R Y O F E V E R Y T H I N G
+46
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+change them so that the astronaut cannot see the singularity until he hits it
+and his time comes to an end. In other words, the singularity always lies in his
+future and never in his past.
+The strong version of the cosmic censorship hypothesis states that in a realis-
+tic solution, the singularities always lie either entirely in the future, like the
+singularities of gravitational collapse, or entirely in the past, like the big bang.
+It is greatly to be hoped that some version of the censorship hypothesis holds,
+because close to naked singularities it may be possible to travel into the past.
+While this would be fine for writers of science fiction, it would mean that no
+one's life would ever be safe. Someone might go into the past and kill your
+father or mother before you were conceived.
+In a gravitational collapse to form a black hole, the movements would be
+dammed by the emission of gravitational waves. One would therefore expect
+that it would not be too long before the black hole would settle down to a sta-
+tionary state. It was generally supposed that this final stationary state would
+depend on the details of the body that had collapsed to form the black hole.
+The black hole might have any shape or size, and its shape might not even be
+fixed, but instead be pulsating.
+B L A C K H O L E S
+47
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+If black holes do exist, Kip will get only one year of Penthouse, because when
+we made the bet in 1975, we were 80 percent certain that Cygnus was a black
+hole. By now I would say that we are about 95 percent certain, but the bet has
+yet to be settled.
+There is evidence for black holes in a number of other systems in our galaxy,
+and for much larger black holes at the centers of other galaxies and quasars.
+One can also consider the possibility that there might be black holes with
+masses much less than that of the sun. Such black holes could not be formed
+by gravitational collapse, because their masses are below the Chandrasekhar
+mass limit. Stars of this low mass can support themselves against the force of
+gravity even when they have exhausted their nuclear fuel. So, low-mass black
+holes could form only if matter were compressed to enormous densities by very
+large external pressures. Such conditions could occur in a very big hydrogen
+bomb. The physicist John Wheeler once calculated that if one took all the
+heavy water in all the oceans of the world, one could build a hydrogen bomb
+that would compress matter at the center so much that a black hole would be
+created. Unfortunately, however, there would be no one left to observe it.
+A more practical possibility is that such low–mass black holes might have been
+formed in the high temperatures and pressures of the very early universe. Black
+holes could have been formed if the early universe had not been perfectly
+T H E T H E O R Y O F E V E R Y T H I N G
+54
+5F9A4512-DBD2-4640-B53D-F3CF22FFE0A2
+smooth and uniform, because then a small region that was denser than aver-
+age could be compressed in this way to form a black hole. But we know that
+there must have been some irregularities, because otherwise the matter in the
+universe would still be perfectly uniformly distributed at the present epoch,
+instead of being clumped together in stars and galaxies.
+Whether or not the irregularities required to account for stars and galaxies
+would have led to the formation of a significant number of these primordial
+black holes depends on the details of the conditions in the early universe. So
+if we could determine how many primordial black holes there are now, we
+would learn a lot about the very early stages of the universe. Primordial black
+holes with masses more than a thousand million tons—the mass of a large
+mountain—could be detected only by their gravitational influence on other
+visible matter or on the expansion of the universe. However, as we shall
+learn in the next lecture, black holes are not really black after all: They glow
+like a hot body, and the smaller they are, the more they glow. So, paradoxi-
+cally, smaller black holes might actually turn out to be easier to detect than
+large ones.
+B L A C K H O L E S
